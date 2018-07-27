@@ -1,10 +1,16 @@
+p {
+  font-family: "Verdana";
+  font-size: 0.8em;
+  color: #333333;
+}
+
 span {
   font-family: "Verdana";
   font-size: 0.8em;
   color: #333333;
 }
 
-p {
+div {
   font-family: "Verdana";
   font-size: 0.8em;
   color: #333333;
@@ -22,31 +28,35 @@ hr {
   color: #777777;
 }
 
+.text-125 {
+	font-size: 1.0em;
+}
+
 .white-text{
 	color: #ffffff;
 }
 
 .pagefat-line {
-  margin-bottom: 1px;
-  border-width: 2px;
-  width: 100%;
+	margin-bottom: 1px;
+	border-width: 2px;
+	width: 100%;
 }
 
 .page-line {
-  margin-top: 0px;
-  width: 100%;
+	margin-top: 0px;
+	width: 100%;
 }
 
-.text-125 {
-  font-size: 1.0em;
+.left-text {
+	text-align: left;
 }
 
-.table-left {
-  text-align: left;
+.center-text {
+	text-align: center;
 }
 
-.table-right {
-  text-align: right;
+.right-text {
+	text-align: right;
 }
 
 .threat-level {
