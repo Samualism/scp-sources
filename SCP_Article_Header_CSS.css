@@ -1,13 +1,13 @@
 span {
   font-family: "Verdana";
   font-size: 0.8em;
-  color: #333333
+  color: #333333;
 }
 
 p {
   font-family: "Verdana";
   font-size: 0.8em;
-  color: #333333
+  color: #333333;
 }
 
 hr {
@@ -20,6 +20,10 @@ hr {
   border-width: 1px;
   width: 92.75%;
   color: #777777;
+}
+
+.white-text{
+	color: #ffffff;
 }
 
 .pagefat-line {
@@ -45,69 +49,54 @@ hr {
   text-align: right;
 }
 
-.threat-level-white{
-  background-color: #f1f1f1;
-  border: 2px solid #333333;
-  display: inline-block;
-  width: 100%;
-  text-align: center;
-  margin: 10px 0px 5px 0px;
+.threat-level {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	margin: 10px 0px 5px 0px;
 }
 
-.threat-level-blue {
-  color: #f1f1f1;
-  background-color: #0000ff;
-  border: 1px solid #0000ff;
-  display: inline-block;
-  width: 100%;
-  text-align: center;
-  margin: 10px 0px 5px 0px;
+.threat-white{
+	border: 2px solid #333333;
+	background-color: #f1f1f1;
 }
 
-.threat-level-green {
-  color: #f1f1f1;
-  background-color: #008000;
-  border: 1px solid #008000;
-  display: inline-block;
-  width: 100%;
-  text-align: center;
-  margin: 10px 0px 5px 0px;
+.threat-blue {
+	border: 1px solid #0000ff;
+	background-color: #0000ff;
 }
 
-.threat-level-yellow {
-  background-color: #ffd700;
-  border: 1px solid #ffd700;
-  display: inline-block;
-  width: 100%;
-  text-align: center;
-  margin: 10px 0px 5px 0px;
-  }
-
-.threat-level-orange {
-  background-color: #ffa500;
-  border: 1px solid #ffa500;
-  display: inline-block;
-  width: 100%;
-  text-align: center;
-  margin: 10px 0px 5px 0px;
+.threat-green {
+	border: 1px solid #008000;
+	background-color: #008000;
 }
 
-.threat-level-red {
-  color: #f1f1f1;
-  background-color: #ff0000;
-  border: 1px solid #ff0000;
-  display: inline-block;
-  width: 100%;
-  text-align: center;
-  margin: 10px 0px 5px 0px;
+.threat-yellow {
+	border: 1px solid #ffd700;
+	background-color: #ffd700;
 }
 
-.threat-level-black {
-	color: #f1f1f1;
-  background-color: #333333;
-  border: 1px solid #333333;
-  display: inline-block;
-  width: 100%;
-  text-align: center;
-  margin: 10px 0px 5px 0px;
-  }
+.threat-orange {
+	border: 1px solid #ffa500;
+	background-color: #ffa500;
+}
+
+.threat-red {
+	border: 1px solid #ff0000;
+	background-color: #ff0000;
+}
+
+.threat-black {
+	border: 1px solid #333333;
+	background-color: #333333;
+}
+  
+.document-box {
+	display: inline-block;
+	border: 1 px dashed #999999;
+	background-color: f5f5f5;
+	float: center;
+	width: 84%;
+	padding: 1px 15px;
+	margin; 10px 10px 10px 40px
+}
