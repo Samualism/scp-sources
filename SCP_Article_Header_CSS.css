@@ -4,6 +4,12 @@ span {
   color: #333333
 }
 
+p {
+  font-family: "Verdana";
+  font-size: 0.8em;
+  color: #333333
+}
+
 hr {
   margin-top: 10px;
   margin-bottom: 10px;
