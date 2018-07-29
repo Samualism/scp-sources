@@ -103,10 +103,10 @@ hr {
   
 .document-box {
 	display: inline-block;
-	border: 1 px dashed #999999;
+	border: 1px dashed #999999;
 	background-color: f5f5f5;
 	float: center;
 	width: 84%;
 	padding: 1px 15px;
-	margin; 10px 10px 10px 40px
+	margin: 10px 10px 10px 40px;
 }
