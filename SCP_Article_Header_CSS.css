@@ -28,6 +28,16 @@ hr {
   color: #777777;
 }
 
+img {
+	border-top-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-bottom-style: solid;
+	border-width: 1px;
+	border-color: #777777;
+}
+
+
 .text-125 {
 	font-size: 1.0em;
 }
