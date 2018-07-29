@@ -36,6 +36,10 @@ hr {
 	color: #ffffff;
 }
 
+.blue-text {
+	color: #0000ff;
+}
+
 .pagefat-line {
 	margin-bottom: 1px;
 	border-width: 2px;
@@ -104,7 +108,7 @@ hr {
 .document-box {
 	display: inline-block;
 	border: 1px dashed #999999;
-	background-color: f5f5f5;
+	background-color: #f5f5f5;
 	float: center;
 	width: 84%;
 	padding: 1px 15px;
