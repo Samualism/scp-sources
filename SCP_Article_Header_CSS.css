@@ -39,6 +39,7 @@ img {
 
 .standard-image {
 	width: 300px;
+	float: right;
 }
 
 .text-125 {
