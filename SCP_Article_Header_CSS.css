@@ -95,40 +95,34 @@ hr {
 	width: 100%;
 	text-align: center;
 	margin: 10px 0px 5px 0px;
+	border: 2px solid #333333;
 }
 
 /*Threat Colors*/
 .threat-white{
-	border: 2px solid #333333;
-	background-color: #f1f1f1;
+	background-color: #f5f5f5;
 }
 
 .threat-blue {
-	border: 1px solid #0000ff;
 	background-color: #0000ff;
 }
 
 .threat-green {
-	border: 1px solid #008000;
 	background-color: #008000;
 }
 
 .threat-yellow {
-	border: 1px solid #ffd700;
 	background-color: #ffd700;
 }
 
 .threat-orange {
-	border: 1px solid #ffa500;
 	background-color: #ffa500;
 }
 
 .threat-red {
-	border: 1px solid #ff0000;
 	background-color: #ff0000;
 }
 
 .threat-black {
-	border: 1px solid #333333;
 	background-color: #333333;
 }
