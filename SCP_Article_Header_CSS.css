@@ -29,13 +29,18 @@ hr {
 }
 
 img {
+	margin-bottom: 0px;
+}
+
+.image-table {
+	float: right;
 	border-top-style: solid;
 	border-right-style: solid;
 	border-left-style: solid;
 	border-bottom-style: solid;
 	border-width: 1px;
 	border-color: #777777;
-	margin-bottom: 0px;
+	border-collapse: collapse;
 }
 
 .standard-image {
@@ -47,12 +52,7 @@ img {
 	font-size: 0.625em;
 	text-align: center;
 	background-color: #eeeeee;
-	border-top-style: none;
-	border-right-style: solid;
-	border-left-style: solid;
-	border-bottom-style: solid;
 	border-width: 1px;
-	border-color: #777777;
 	margin-top: 0px;
 }
 
