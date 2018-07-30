@@ -92,7 +92,7 @@ hr {
 /*Threat Standard*/
 .threat-level {
 	display: inline-block;
-	width: 100%;
+	width: 85%;
 	text-align: center;
 	margin: 10px 0px 5px 0px;
 	border: 2px solid #333333;
