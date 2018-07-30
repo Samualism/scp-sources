@@ -43,6 +43,7 @@ img {
 	border-collapse: collapse;
 	padding: 0px;
 	text-align: center;
+	background-color: #eeeeee;
 }
 
 .standard-image {
@@ -52,7 +53,6 @@ img {
 
 .image-caption {
 	font-size: 0.625em;
-	background-color: #eeeeee;
 	border-width: 1px;
 	margin-top: 0px;
 }
